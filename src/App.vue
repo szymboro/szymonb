@@ -117,6 +117,7 @@
             <img src="../src/assets/projects/kancelaria.png" />
             <a
               href="https://notariusz.magda-zielecka.pl/"
+              target="_blank"
               class="font-mono text-sm md:text-2xl text-white text-center"
             >
               <p>Notariusz Aneta Magda-Zielecka</p>
@@ -126,6 +127,7 @@
             <img src="../src/assets/projects/odaart.png" />
             <a
               href="https://odaart.pl/"
+              target="_blank"
               class="font-mono text-sm md:text-2xl text-white text-center"
               ><p>OdaArt</p></a
             >
@@ -135,6 +137,7 @@
             <img src="../src/assets/projects/eurowasta.png" />
             <a
               href="https://eurowasta.com/"
+              target="_blank"
               class="font-mono text-sm md:text-2xl text-white text-center"
               ><p>Euro-Wasta</p></a
             >
@@ -143,6 +146,7 @@
             <img src="../src/assets/projects/biennale.png" />
             <a
               href="https://biennalepiotrkow.pl/"
+              target="_blank"
               class="font-mono text-sm md:text-2xl text-white text-center"
               ><p>Biennale</p></a
             >
@@ -151,6 +155,7 @@
             <img src="../src/assets/projects/makeupmalachowska.png" />
             <a
               href="https://makeupmalachowska.pl/"
+              target="_blank"
               class="font-mono text-sm md:text-2xl text-white text-center"
             >
               <p>Makeup Małachowska</p>
@@ -160,6 +165,7 @@
             <img src="../src/assets/projects/wmmobile.png" />
             <a
               href="https://wm-mobile.de/"
+              target="_blank"
               class="font-mono text-sm md:text-2xl text-white text-center"
             >
               <p>Malc Automobile</p>
@@ -169,6 +175,7 @@
             <img href="" src="../src/assets/projects/praca1.png" />
             <a
               href="https://przestrzen-zamknieta.odaart.pl/"
+              target="_blank"
               class="font-mono text-sm md:text-2xl text-white text-center"
             >
               <p>Przestrzeń Zamknięta/Otwarta</p>
@@ -178,6 +185,7 @@
             <img src="../src/assets/projects/praca2.png" />
             <a
               href="https://anabioza.odaart.pl/"
+              target="_blank"
               class="font-mono text-sm md:text-2xl text-white text-center"
               ><p>Anabioza</p>
             </a>
