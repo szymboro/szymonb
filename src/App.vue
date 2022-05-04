@@ -114,9 +114,7 @@
           data-flickity='{ "imagesLoaded": true, "wrapAround": false,  "groupCells": 1 }'
         >
           <div class="border-4 rounded-md border-black bg-black">
-            <img
-              src="../src/assets/projects/Kancelaria Notarialna Aneta Magda-Zielecka.png"
-            />
+            <img src="../src/assets/projects/kancelaria.png" />
             <a
               href="https://notariusz.magda-zielecka.pl/"
               class="font-mono text-sm md:text-2xl text-white text-center"
@@ -125,9 +123,7 @@
             </a>
           </div>
           <div class="border-4 rounded-md border-black bg-black">
-            <img
-              src="../src/assets/projects/Ośrodek Działań Artystycznych.png"
-            />
+            <img src="../src/assets/projects/odaart.png" />
             <a
               href="https://odaart.pl/"
               class="font-mono text-sm md:text-2xl text-white text-center"
@@ -136,7 +132,7 @@
           </div>
 
           <div class="border-4 rounded-md border-black bg-black">
-            <img src="../src/assets/projects/Home Euro-Wasta.png" />
+            <img src="../src/assets/projects/eurowasta.png" />
             <a
               href="https://eurowasta.com/"
               class="font-mono text-sm md:text-2xl text-white text-center"
@@ -144,9 +140,7 @@
             >
           </div>
           <div class="border-4 rounded-md border-black bg-black">
-            <img
-              src="../src/assets/projects/Piotrkowskie Biennale Sztuki.png"
-            />
+            <img src="../src/assets/projects/biennale.png" />
             <a
               href="https://biennalepiotrkow.pl/"
               class="font-mono text-sm md:text-2xl text-white text-center"
@@ -154,7 +148,7 @@
             >
           </div>
           <div class="border-4 rounded-md border-black bg-black">
-            <img src="../src/assets/projects/Make Up Małachowska.png" />
+            <img src="../src/assets/projects/makeupmalachowska.png" />
             <a
               href="https://makeupmalachowska.pl/"
               class="font-mono text-sm md:text-2xl text-white text-center"
@@ -163,7 +157,7 @@
             </a>
           </div>
           <div class="border-4 rounded-md border-black bg-black">
-            <img src="../src/assets/projects/Malc Automobile.png" />
+            <img src="../src/assets/projects/wmmobile.png" />
             <a
               href="https://wm-mobile.de/"
               class="font-mono text-sm md:text-2xl text-white text-center"
