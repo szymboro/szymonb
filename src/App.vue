@@ -189,9 +189,10 @@
     <div class="flex h-screen bg-black sticky top-0">
       <div class="container m-auto p-5">
         <p class="font-mono text-6xl text-white">HT0P</p>
-        <div class="grid pt-6">
+        <div class="pt-6">
           <figure>
             <embed
+              class="h-full"
               src="https://wakatime.com/share/@szymboro/dd52b76a-b2fd-4101-98c3-c911d83ae22e.svg"
             />
           </figure>
@@ -232,5 +233,9 @@ export default {
 .carousel div {
   width: 66%;
   margin: 40px;
+}
+
+embed {
+  max-height: 500px;
 }
 </style>
