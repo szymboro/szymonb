@@ -205,19 +205,19 @@
       </div>
     </div>
 
-    <!-- <div class="flex h-screen bg-black sticky top-0">
+    <div class="flex h-screen bg-black sticky top-0">
       <div class="container m-auto p-5">
         <p class="font-mono text-6xl text-white">HT0P</p>
         <div class="pt-6">
           <figure>
             <embed
               class="h-full"
-              src="https://wakatime.com/share/@szymboro/dd52b76a-b2fd-4101-98c3-c911d83ae22e.svg"
+              src="https://wakatime.com/share/@szymboro/5227ed85-4f17-4153-8ac9-ffa3b5f1c724.svg"
             />
           </figure>
         </div>
       </div>
-    </div> -->
+    </div>
 
     <footerVue />
   </main>
